@@ -55,7 +55,7 @@ p{
 
 .overlap-card{
 	background-color: #363636;
-	border-radius: 25px;
+	border-radius: 22px;
 	margin-left: 20px;
 	margin-top: 30px;
 	max-width: 100%;
@@ -97,7 +97,7 @@ p{
 }
 
 .button-radius{
-	background-color: inherit;
+	background-color: #B92F5C;
 	color: white;
 	border-color: white;
 	border-radius: 50px;
@@ -131,6 +131,16 @@ p{
 	color: #A0A0A0;
 }
 
-/*.black-background{
-	background-color: #2C2C2C;
-}*/
+.text-white{
+	color: white;
+}
+
+.current-course-text{
+	margin-top: 6px;
+
+}
+
+.course-icon{
+	float: left;
+	margin-right: 10px;
+}
